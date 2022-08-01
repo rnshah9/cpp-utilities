@@ -1,4 +1,4 @@
 project: cpp-utilities
 target: byte-writer
 cmds:
-  - cmd: /repo/build/programs/byte_writer @@
+  - cmd: /byte_writer @@
